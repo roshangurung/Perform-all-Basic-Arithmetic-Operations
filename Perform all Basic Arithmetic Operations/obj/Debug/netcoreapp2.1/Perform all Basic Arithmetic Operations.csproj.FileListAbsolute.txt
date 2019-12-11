@@ -1,0 +1,11 @@
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Perform all Basic Arithmetic Operations\Perform all Basic Arithmetic Operations\bin\Debug\netcoreapp2.1\Perform all Basic Arithmetic Operations.deps.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Perform all Basic Arithmetic Operations\Perform all Basic Arithmetic Operations\bin\Debug\netcoreapp2.1\Perform all Basic Arithmetic Operations.runtimeconfig.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Perform all Basic Arithmetic Operations\Perform all Basic Arithmetic Operations\bin\Debug\netcoreapp2.1\Perform all Basic Arithmetic Operations.runtimeconfig.dev.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Perform all Basic Arithmetic Operations\Perform all Basic Arithmetic Operations\bin\Debug\netcoreapp2.1\Perform all Basic Arithmetic Operations.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Perform all Basic Arithmetic Operations\Perform all Basic Arithmetic Operations\bin\Debug\netcoreapp2.1\Perform all Basic Arithmetic Operations.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Perform all Basic Arithmetic Operations\Perform all Basic Arithmetic Operations\obj\Debug\netcoreapp2.1\Perform all Basic Arithmetic Operations.csprojAssemblyReference.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Perform all Basic Arithmetic Operations\Perform all Basic Arithmetic Operations\obj\Debug\netcoreapp2.1\Perform all Basic Arithmetic Operations.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Perform all Basic Arithmetic Operations\Perform all Basic Arithmetic Operations\obj\Debug\netcoreapp2.1\Perform all Basic Arithmetic Operations.AssemblyInfoInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Perform all Basic Arithmetic Operations\Perform all Basic Arithmetic Operations\obj\Debug\netcoreapp2.1\Perform all Basic Arithmetic Operations.AssemblyInfo.cs
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Perform all Basic Arithmetic Operations\Perform all Basic Arithmetic Operations\obj\Debug\netcoreapp2.1\Perform all Basic Arithmetic Operations.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Perform all Basic Arithmetic Operations\Perform all Basic Arithmetic Operations\obj\Debug\netcoreapp2.1\Perform all Basic Arithmetic Operations.pdb
